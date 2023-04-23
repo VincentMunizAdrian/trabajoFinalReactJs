@@ -1,0 +1,14 @@
+.contenedorHome{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.banner{
+    height: 300px;
+}
+
+.titulo{
+align-self: center;
+}
