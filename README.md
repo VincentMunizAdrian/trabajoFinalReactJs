@@ -2,7 +2,7 @@
 
 # ⚽ Primer intento de App
 
-## como poder visualizar el proyecto...
+## Como poder visualizar el proyecto...
 
 ### Primero abrir la terminal e inicializar con el siguiente comando:  
 
